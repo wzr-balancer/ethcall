@@ -38,7 +38,7 @@ function getAddress(chainId: number): string {
 		1: '0xeefba1e63905ef1d7acba5a8513c70307c1ce441',
 		4: '0x42ad527de7d4e9d9d011ac45b31d8551f8fe9821',
 		42: '0x2cc8688c5f75e365aaeeb4ea8d6a480405a48d2a',
-		56: '0xe21a5b299756ee452a6a871ff29852862fc99be9',
+		56: '0x41263cba59eb80dc200f3e2544eda4ed6a90e76c',
 		97: '0xae11C5B5f29A6a25e955F0CB8ddCc416f522AF5C',
 		100: '0xb5b692a88bdfc81ca69dcb1d924f59f0413a602a',
 		137: '0x35e4aa226ce52e1e59e5e5ec24766007bcbe2e7d',
